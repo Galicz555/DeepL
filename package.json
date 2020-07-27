@@ -1,0 +1,23 @@
+{
+  "name": "pracitce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galicz555/DeepL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galicz555/DeepL/issues"
+  },
+  "homepage": "https://github.com/Galicz555/DeepL#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.0.1",
+    "@tensorflow/tfjs-node": "^2.0.1"
+  }
+}
